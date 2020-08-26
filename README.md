@@ -1,2 +1,2 @@
-# Collision-
-Changes color every time it touches mouse 
+# p5.play-boilerplate
+Boiler plate for p5.play
